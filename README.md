@@ -11,7 +11,10 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Prérequis : Python installé en local. 
 
 
+```
 a voir avec l'équipe
+Prérequis : Git installé sur la machine.
+```
 
 
 
